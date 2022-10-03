@@ -12,7 +12,7 @@ end
  
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "Notification";
-	Text = "Netbypass by David Felix enabled";
+	Text = "Netless activated";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 16;
 
